@@ -1,3 +1,1 @@
-# less-than-reputable.github.io
-
-Hello world!
+http://less-than-reputable.github.io
